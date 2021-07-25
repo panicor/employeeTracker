@@ -1,0 +1,26 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "This commannd line application uses MySQL to store employees in a databases and keep track of them",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panicor/employeeTracker.git"
+  },
+  "keywords": [
+    "MySQL"
+  ],
+  "author": "Rachel Panico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panicor/employeeTracker/issues"
+  },
+  "homepage": "https://github.com/panicor/employeeTracker#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "mysql": "^2.18.1"
+  }
+}
