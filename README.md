@@ -29,3 +29,5 @@
   [GitHub: panicor](https://github.com/panicor)
 
   rachelapanico@gmail.com
+  
+  ![employeepic](https://user-images.githubusercontent.com/85498209/134782667-56aba7ff-3cb0-45cc-8b18-a53dd0ffb405.PNG)
